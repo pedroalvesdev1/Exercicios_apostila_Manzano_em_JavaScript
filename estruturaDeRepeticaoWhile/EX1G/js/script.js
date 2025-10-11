@@ -1,3 +1,4 @@
+//apresenta a série de Fibonacci até o décimo quinto termo
 let contador = 1
 let fibonnacci = 1
 let primeiraSequencia = 0
