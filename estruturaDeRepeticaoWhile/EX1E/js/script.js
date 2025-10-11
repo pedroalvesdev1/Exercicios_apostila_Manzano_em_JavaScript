@@ -1,3 +1,4 @@
+//os das potências de 3, variando do expoente 0 até o expoente 15
 let contador = 1
 let expoente = 3
 let potencia = 1
